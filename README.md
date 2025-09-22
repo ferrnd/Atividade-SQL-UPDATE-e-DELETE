@@ -40,5 +40,5 @@ INSERT INTO produtos (nome, marca, "preço", categoria, estoque) VALUES
 ('Esmalte Vermelho Intenso', 'Risqué', 7.90, 'Esmalte', 600000),
 ('Body Splash Vanilla', 'Victoria’s Secret', 99.90, 'Body Splash', 270000);
 
-DROP TABLE usuarios;
+SELECT * FROM produtos;
 ```
