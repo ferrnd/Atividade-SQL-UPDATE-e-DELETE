@@ -41,7 +41,7 @@
                         <mxRectangle width="60" height="35" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="11" value="VARCHAR(100)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9">
+                <mxCell id="11" value="DECIMAL(10,2)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="9">
                     <mxGeometry x="60" width="150" height="35" as="geometry">
                         <mxRectangle width="150" height="35" as="alternateBounds"/>
                     </mxGeometry>
@@ -67,7 +67,7 @@
                         <mxRectangle width="60" height="35" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="17" value="VARCHAR(30)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="15">
+                <mxCell id="17" value="INT DEFAULT 0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="15">
                     <mxGeometry x="60" width="150" height="35" as="geometry">
                         <mxRectangle width="150" height="35" as="alternateBounds"/>
                     </mxGeometry>
@@ -80,7 +80,7 @@
                         <mxRectangle width="60" height="35" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="20" value="INT DEFAULT 0" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="18">
+                <mxCell id="20" value="VARCHAR(50)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="18">
                     <mxGeometry x="60" width="150" height="35" as="geometry">
                         <mxRectangle width="150" height="35" as="alternateBounds"/>
                     </mxGeometry>
